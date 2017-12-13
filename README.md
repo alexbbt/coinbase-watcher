@@ -7,6 +7,7 @@ This tool can also be found and run via Docker.
 ``` bash
 docker run -it -e COINS="1" -e INITIAL="100" -e CURRENCY="LTC" docker.io/alexbbt/coinbase-watcher
 ```
+> https://hub.docker.com/r/alexbbt/coinbase-watcher/
 
 ## Environmental Variables
 
